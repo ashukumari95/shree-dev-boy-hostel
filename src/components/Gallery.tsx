@@ -4,8 +4,8 @@ import { Maximize2, Camera } from 'lucide-react';
 
 export const Gallery = () => {
   const images = [
-    { src: "/public/visual.png", alt: "Modern Shared Room", title: "Comfortable Living" },
-    { src: "/public/bg.jpeg", alt: "Hostel Exterior", title: "Main Building" },
+    { src: "/visual.png", alt: "Modern Shared Room", title: "Comfortable Living" },
+    { src: "/bg.jpeg", alt: "Hostel Exterior", title: "Main Building" },
   ];
 
   return (

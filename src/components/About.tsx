@@ -16,7 +16,7 @@ export const About = () => {
           >
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/public/bacha.jpeg"
+                src="/bacha.jpeg"
                 alt="Proprietor: Sanwar Gurjar"
                 className="w-full aspect-[4/5] object-cover"
               />

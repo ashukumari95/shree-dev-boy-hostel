@@ -77,7 +77,7 @@ export const Pricing = () => {
         <PlanCard 
           title="Triple Seater" 
           price="6,000" 
-          image="/public/3seater.png"
+          image="public/3seater.png"
           features={[...commonFeatures]} 
           delay={0.1}
         />

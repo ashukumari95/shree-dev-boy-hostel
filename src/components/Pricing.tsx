@@ -77,14 +77,14 @@ export const Pricing = () => {
         <PlanCard 
           title="Triple Seater" 
           price="6,000" 
-          image="public/3seater.png"
+          image="/3seater.png"
           features={[...commonFeatures]} 
           delay={0.1}
         />
         <PlanCard 
           title="Double Seater" 
           price="6,500" 
-          image="/public/2seater.png"
+          image="/2seater.png"
           features={[...commonFeatures]} 
           isPopular={true}
           delay={0.2}
@@ -92,7 +92,7 @@ export const Pricing = () => {
         <PlanCard 
           title="Single Seater" 
           price="7,500" 
-          image="/public/1seater.png"
+          image="/1seater.png"
           features={[...commonFeatures, "Private Desk", "Large Closet"]} 
           delay={0.3}
         />
